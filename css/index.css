@@ -141,12 +141,4 @@ button:hover {
     #luxury {
         border-radius: 0px 10px 10px 00px;
     }
-    .attribution {
-        font-size: 11px;
-        text-align: center;
-        position: absolute;
-        bottom: 1%;
-        left: 50%;
-        transform: translate(-50%, 0%);
-    }
 }
