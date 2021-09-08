@@ -20,5 +20,4 @@
 *.md
 *.ttf
 !BigShouldersDisplay-Medium.ttf
-/static
-/static/!LexendDeca-Regular.ttf
+!/static/LexendDeca-Regular.ttf
